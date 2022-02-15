@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cartoon-Avatar-Directory/static/css/main.51c7d04a.css",
+    "main.js": "/Cartoon-Avatar-Directory/static/js/main.1373de04.js",
+    "static/js/787.3a0e5426.chunk.js": "/Cartoon-Avatar-Directory/static/js/787.3a0e5426.chunk.js",
+    "index.html": "/Cartoon-Avatar-Directory/index.html",
+    "main.51c7d04a.css.map": "/Cartoon-Avatar-Directory/static/css/main.51c7d04a.css.map",
+    "main.1373de04.js.map": "/Cartoon-Avatar-Directory/static/js/main.1373de04.js.map",
+    "787.3a0e5426.chunk.js.map": "/Cartoon-Avatar-Directory/static/js/787.3a0e5426.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c7d04a.css",
+    "static/js/main.1373de04.js"
+  ]
+}
